@@ -1,4 +1,4 @@
-cd ~/04_headcount_in_house/96_github
+cd ~/04_headcount_in_house/00_code$
 ## 1 initialize the project   
 ##git init  
 ##it will generate the dir .git under the project_path, which is used to manage the current repository  
