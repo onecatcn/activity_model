@@ -1,0 +1,12 @@
+cd ~/04_headcount_in_house/00_code$
+## 1 initialize the project   
+git init  
+##it will generate the dir .git under the project_path, which is used to manage the current repository  
+## 2 connect the remote git server  
+git remote add origin https://github.com/onecatcn/activity_model.git
+## 3 add the items  
+git add .  
+## 4 commit  
+git commit -m "initial commit"  
+## 5 push to server  
+git push -u origin master  
